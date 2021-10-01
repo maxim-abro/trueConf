@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217689"],{c732:function(n,c,e){"use strict";e.r(c);var t=e("7a23");function u(n,c){return Object(t["s"])(),Object(t["d"])("h1",null,"Главная страница админки")}const o={};o.render=u;c["default"]=o}}]);
+//# sourceMappingURL=chunk-2d217689.4d6ba187.js.map
